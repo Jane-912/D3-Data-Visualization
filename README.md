@@ -1,6 +1,6 @@
 # Data-Visualization
 This is a scatter chart describing the maximum temperature and minimum temperature during a period of time for New York City. 
-It mainly include three kinds of visualization parts:
+It mainly includes three kinds of visualization parts:
 
 • Given a set of points, visualize them using a scatter plot, with colors corresponded to the legend color scale below.
 
