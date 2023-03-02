@@ -3,7 +3,9 @@ This is a scatter chart describing the maximum temperature and minimum temperatu
 It mainly include three kinds of visualization parts:
 
 • Given a set of points, visualize them using a scatter plot, with colors corresponded to the legend color scale below.
+
 • When users use a mouse to hover a point, the corresponding information will be displayed near the point.
+
 • When users use a mouse to hover a specific time interval in the legend, only the points in that interval will be displayed.
 
 The web view:
