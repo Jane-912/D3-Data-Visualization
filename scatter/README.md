@@ -1,4 +1,4 @@
-# Data-Visualization
+# Intercactive scatter chart
 This is a scatter chart describing the maximum temperature and minimum temperature during a period of time for New York City. 
 It mainly includes three kinds of visualization parts:
 
